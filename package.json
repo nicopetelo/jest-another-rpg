@@ -1,7 +1,6 @@
 {
   "name": "rpg",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "jest"
@@ -10,7 +9,21 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^7.0.3",
+    "inquirer": "^7.0.3"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {
     "jest": "^24.9.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicopetelo/jest-another-rpg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nicopetelo/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/nicopetelo/jest-another-rpg#readme",
+  "description": ""
 }
