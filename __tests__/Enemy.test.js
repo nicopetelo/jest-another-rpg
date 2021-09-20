@@ -60,3 +60,5 @@ test('gets a description of the enemy', () => {
     expect(enemy.getDescription()).toEqual(expect.stringContaining('knife'));
 
 })
+
+// sudo /Applications/Install\ macOS\ High\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/escoz --applicationpath /Applications/Install\ macOS\ High\ Sierra.app
